@@ -1,0 +1,34 @@
+.product {
+
+  &-main {
+    display: flex;
+    flex-direction: column;
+    text-align: right;
+    justify-content: space-around;
+    height: 180px;
+    margin: auto;
+  }
+
+  &-amount {
+    margin-right: 20px;
+  }
+
+  &-edit {
+    color: green;
+    cursor: pointer;
+  }
+
+  &-edit:hover {
+    text-decoration: underline;
+  }
+
+  &-delete {
+    color: red;
+    cursor: pointer;
+  }
+
+  &-delete:hover {
+    text-decoration: underline;
+  }
+
+}
