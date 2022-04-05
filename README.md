@@ -1,3 +1,8 @@
+Привіт, це проект спеціально для inforce.
+За час, який виділяється на теcтові не встиг підключити редакс.
+Тому редакс я підключив пізніше (branch: with-redux)
+Надіюсь це не буде для мене мінусом)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
